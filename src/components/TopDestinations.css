@@ -1,0 +1,7 @@
+.centeredUL {
+    width: 450px;
+    margin: auto;
+    display: flex;
+    text-align: start;
+    justify-content: space-evenly;
+}
